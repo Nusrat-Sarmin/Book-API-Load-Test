@@ -1,8 +1,11 @@
 # Book-API-Load-Test
                                                    **Load_Testing_Strategy**
+                                            
+                                                   
+![n](https://user-images.githubusercontent.com/101436175/176334528-6ccba0e0-bd07-4792-8a1e-43d0f2f9888a.JPG)
 
-![load](https://user-images.githubusercontent.com/101436175/176332137-6c3dc9ab-6240-4a73-b089-fde9ca9a6e6c.JPG)
 
+                                            
                                              **1.167 users for 60s (Throughput 2.8/sec)**
 
 ![1minute](https://user-images.githubusercontent.com/101436175/176332300-d33ca853-5fee-45da-9b85-43d52da4c8ab.JPG)
@@ -22,3 +25,4 @@
                                                **2500 Users For 900s Summary Report**
 
 ![report](https://user-images.githubusercontent.com/101436175/176332562-88d76f86-4d80-4783-b0c8-573495ce7f87.JPG)
+
