@@ -3,7 +3,7 @@
 
 ![load](https://user-images.githubusercontent.com/101436175/176332137-6c3dc9ab-6240-4a73-b089-fde9ca9a6e6c.JPG)
 
-1.167 users for 60s (Throughput 2.8/sec)
+                                               **1.167 users for 60s (Throughput 2.8/sec)**
 
 ![1minute](https://user-images.githubusercontent.com/101436175/176332300-d33ca853-5fee-45da-9b85-43d52da4c8ab.JPG)
 
