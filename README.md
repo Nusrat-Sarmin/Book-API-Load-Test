@@ -2,7 +2,7 @@
                                                    **Load_Testing_Strategy**
                                             
                                                    
-![n](https://user-images.githubusercontent.com/101436175/176334528-6ccba0e0-bd07-4792-8a1e-43d0f2f9888a.JPG)
+![Load-test-strategy](https://user-images.githubusercontent.com/101436175/176565282-0e867273-f4e1-49b7-8892-64a284028cd7.JPG)
 
 
                                             
@@ -25,4 +25,5 @@
                                                **2500 Users For 900s Summary Report**
 
 ![report](https://user-images.githubusercontent.com/101436175/176332562-88d76f86-4d80-4783-b0c8-573495ce7f87.JPG)
+
 
